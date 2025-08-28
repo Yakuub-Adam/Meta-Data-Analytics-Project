@@ -6,7 +6,7 @@ This project involved analysing Instagram ad performance for a sportswear brand 
 The goal was to provide data-driven recommendations to optimise campaign effectiveness and cost-efficiency.
 
 ## Dataset
-- The dataset contains 1,000+ entries with user interaction metrics.
+- The dataset contains 1,000 entries with user interaction metrics.
 - Key metrics analysed:
   - **CTR (Click Through Rate):** measures how often users clicked the ad.
   - **ER (Engagement Rate):** measures overall interaction with the ad.
